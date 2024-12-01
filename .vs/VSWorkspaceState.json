@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\cpp-lib",
+    "\\frontend",
+    "\\frontend\\app",
+    "\\frontend\\app\\src"
+  ],
+  "SelectedNode": "\\cpp-lib\\server.cpp",
+  "PreviewInSolutionExplorer": false
+}
